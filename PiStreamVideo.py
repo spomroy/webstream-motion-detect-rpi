@@ -1,8 +1,7 @@
-
-
-#https://github.com/waveform80/picamera/blob/master/docs/examples/web_streaming.py
-
-
+# Minimalist web server that streams video from a Raspberry Pi.
+# Motion detection triggers the associated picture to be saved.
+# The code this is based off of can be found here:
+# https://github.com/waveform80/picamera/blob/master/docs/examples/web_streaming.py
 
 import argparse
 from os.path import expanduser
