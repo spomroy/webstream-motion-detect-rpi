@@ -1,6 +1,9 @@
 Portions of this software are derived from:
 https://github.com/waveform80/picamera/blob/master/docs/examples/web_streaming.py
 
+Main Git page:
+https://github.com/waveform80/picamera
+
 Copyright 2013-2017 Dave Jones <dave@waveform.org.uk>
 
 Redistribution and use in source and binary forms, with or without
