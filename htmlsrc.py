@@ -34,8 +34,8 @@ STOPPED_PAGE="""<!DOCTYPE html><html><head>
     font-weight: bold;
 }
 </style>
-<title>Squirrel Sentry</title></head>
-<body><h1>Squirrel Sentry</h1>
+<title>Baskyard Sentry</title></head>
+<body><h1>Backyard Sentry</h1>
 <p>Streaming stopped.</p>
 <form>
 <p><a href="start_streaming" class="button">Start Streaming</a></p>
